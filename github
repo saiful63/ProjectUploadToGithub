@@ -1,0 +1,4 @@
+git add .
+git commit -m "vs code command"
+git remote add origin url here
+git push origin master
